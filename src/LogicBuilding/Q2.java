@@ -10,6 +10,7 @@ public class Q2 {
         int sum = 0;
         for(int i = 1; i<=10; i++){
             System.out.println( input +" x "+ i + " = " +input*i);
+
         }
     }
 }
