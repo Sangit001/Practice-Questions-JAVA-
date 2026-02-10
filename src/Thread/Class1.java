@@ -12,7 +12,7 @@ class myThread extends Thread{
         }
     }
 }
-public class Class1 {
+ class Class1 {
    public static void main(String[] args) {
         myThread t1 = new myThread();
         t1.show();
